@@ -1,0 +1,15 @@
+
+      h1{color:green}
+        *{border:solid}
+      .firstName{border:dashed 5px blue;
+        text-align:center;
+    }
+    .projectlist{
+        display:flex;
+        justify-content :space-between ;
+    }
+    .lastName{
+        text-align: center;
+    }
+
+            
